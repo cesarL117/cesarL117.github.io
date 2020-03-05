@@ -1,0 +1,52 @@
+body{
+    background-image: url(imagenes/fondo3.jpg);
+}
+
+h3{
+    display: block;   
+    width: 100%;
+    margin: auto;
+    padding: 15px 15px;   
+    text-align: center;   
+    border: 1px solid #999999;   
+    background-color: black;
+    color: white;
+}
+h1{
+    width: 100%;
+    background-color: white;
+    text-align: center;
+    border-style: solid;
+}
+
+section{
+    text-align: center;
+    font-style: oblique;
+    font-weight: 300;
+}
+
+footer{
+    text-align: center;
+    font-style: oblique;
+    font-weight: 300;
+}
+
+img{
+    width: 150px;
+    height: 150px;
+    align-content: center;
+    padding-left: 45%;
+}
+
+footer{
+    font-size: 30px;
+}
+.Articulo{
+    border-style: solid;
+    background-color: white;
+    width: 100%;
+}
+
+.Habi{
+    border-style: solid;
+}
